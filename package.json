@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-whatsapp",
+  "version": "1.0.0",
+  "description": "Nodejs script + puppeteer + whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaviyarasu7/puppeteer-whatsapp.git"
+  },
+  "author": "Kaviyarasu JR",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kaviyarasu7/puppeteer-whatsapp/issues"
+  },
+  "homepage": "https://github.com/kaviyarasu7/puppeteer-whatsapp#readme",
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
